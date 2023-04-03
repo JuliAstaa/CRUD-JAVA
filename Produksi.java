@@ -81,6 +81,7 @@ public class Produksi extends javax.swing.JFrame {
      */
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
+    // DE COPY NE NE
     private void initComponents() {
 
         jPanel1 = new javax.swing.JPanel();
@@ -337,6 +338,7 @@ public class Produksi extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+    // SAMPE NE DE COPY NE
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
         // TODO add your handling code here:
@@ -431,6 +433,7 @@ public class Produksi extends javax.swing.JFrame {
     /**
      * @param args the command line arguments
      */
+    // NE MASE DE COPY NE
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
@@ -491,3 +494,4 @@ public class Produksi extends javax.swing.JFrame {
     private javax.swing.JTextField telepon;
     // End of variables declaration//GEN-END:variables
 }
+// SAMPE AKHIR
